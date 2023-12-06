@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "\\app",
+    "\\app\\pin",
+    "\\app\\pin-builder",
+    "\\app\\pin\\[pinId]"
+  ],
+  "PreviewInSolutionExplorer": false
+}

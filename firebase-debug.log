@@ -1,0 +1,21 @@
+[debug] [2023-12-06T07:54:03.876Z] ----------------------------------------------------------------------
+[debug] [2023-12-06T07:54:03.881Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\HP\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-12-06T07:54:03.881Z] CLI Version:   12.9.1
+[debug] [2023-12-06T07:54:03.881Z] Platform:      win32
+[debug] [2023-12-06T07:54:03.881Z] Node Version:  v20.9.0
+[debug] [2023-12-06T07:54:03.882Z] Time:          Wed Dec 06 2023 14:54:03 GMT+0700 (Western Indonesia Time)
+[debug] [2023-12-06T07:54:03.882Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-12-06T07:54:03.890Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-12-06T07:54:03.891Z] > authorizing via signed-in user (putridriyani@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\Downloads\Project Cloud Computing\PhotoBooth-Web
+
